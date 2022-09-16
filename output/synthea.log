@@ -1,0 +1,206 @@
+Scanned 60 modules and 46 submodules.
+Loading submodule modules/breast_cancer/tnm_diagnosis.json
+Loading submodule modules/allergies/allergy_incidence.json
+Loading submodule modules/dermatitis/moderate_cd_obs.json
+Loading submodule modules/dermatitis/severe_cd_obs.json
+Loading submodule modules/contraceptives/female_sterilization.json
+Loading submodule modules/allergies/outgrow_env_allergies.json
+Loading submodule modules/heart/chf_meds.json
+Loading submodule modules/lung_cancer/lung_cancer_probabilities.json
+Loading submodule modules/contraceptives/patch_contraceptive.json
+Loading submodule modules/heart/chf_lvad.json
+Loading submodule modules/allergies/allergy_panel.json
+Loading submodule modules/breast_cancer/surgery_therapy_breast.json
+Loading submodule modules/allergies/severe_allergic_reaction.json
+Loading submodule modules/dermatitis/early_severe_eczema_obs.json
+Loading submodule modules/total_joint_replacement/functional_status_assessments.json
+Loading submodule modules/heart/chf_lab_work.json
+Loading submodule modules/contraceptives/ring_contraceptive.json
+Loading submodule modules/anemia/anemia_sub.json
+Loading submodule modules/heart/chf_transplant.json
+Loading submodule modules/medications/otc_pain_reliever.json
+Loading submodule modules/breast_cancer/hormone_diagnosis.json
+Loading submodule modules/medications/strong_opioid_pain_reliever.json
+Loading submodule modules/medications/ear_infection_antibiotic.json
+Loading submodule modules/allergies/immunotherapy.json
+Loading submodule modules/dermatitis/mid_moderate_eczema_obs.json
+Loading submodule modules/contraceptives/clear_contraceptive.json
+Loading submodule modules/heart/chf_meds_hfmef.json
+Loading submodule modules/heart/chf_nyha_panel.json
+Loading submodule modules/surgery/general_anesthesia.json
+Loading submodule modules/veterans/veteran_suicide_probabilities.json
+Loading submodule modules/contraceptives/oral_contraceptive.json
+Loading submodule modules/medications/moderate_opioid_pain_reliever.json
+Loading submodule modules/medications/otc_antihistamine.json
+Loading submodule modules/dermatitis/mid_severe_eczema_obs.json
+Loading submodule modules/dermatitis/early_moderate_eczema_obs.json
+Loading submodule modules/contraceptives/intrauterine_device.json
+Loading submodule modules/contraceptives/male_sterilization.json
+Loading submodule modules/heart/chf_meds_hfref_nyha3.json
+Loading submodule modules/contraceptives/implant_contraceptive.json
+Loading submodule modules/heart/chf_meds_hfref_nyha4.json
+Loading submodule modules/breast_cancer/hormonetherapy_breast.json
+Loading submodule modules/heart/chf_meds_hfref_nyha2.json
+Loading submodule modules/contraceptives/injectable_contraceptive.json
+Loading submodule modules/medications/hypertension_medication.json
+Loading submodule modules/allergies/outgrow_food_allergies.json
+Loading submodule modules/breast_cancer/chemotherapy_breast.json
+Loading module modules/opioid_addiction.json
+Loading module modules/dialysis.json
+Loading module modules/allergic_rhinitis.json
+Loading module modules/pregnancy.json
+Loading module modules/atopy.json
+Loading module modules/self_harm.json
+Loading module modules/asthma.json
+Loading module modules/ear_infections.json
+Loading module modules/sinusitis.json
+Loading module modules/dementia.json
+Loading module modules/veteran_hyperlipidemia.json
+Loading module modules/mTBI.json
+Loading module modules/veteran_prostate_cancer.json
+Loading module modules/anemia___unknown_etiology.json
+Loading module modules/urinary_tract_infections.json
+Loading module modules/hypothyroidism.json
+Loading module modules/osteoarthritis.json
+Loading module modules/appendicitis.json
+Loading module modules/copd.json
+Loading module modules/contraceptive_maintenance.json
+Loading module modules/fibromyalgia.json
+Loading module modules/veteran_substance_abuse_treatment.json
+Loading module modules/veteran_lung_cancer.json
+Loading module modules/total_joint_replacement.json
+Loading module modules/rheumatoid_arthritis.json
+Loading module modules/sore_throat.json
+Loading module modules/gallstones.json
+Loading module modules/bronchitis.json
+Loading module modules/sexual_activity.json
+Loading module modules/homelessness.json
+Loading module modules/epilepsy.json
+Loading module modules/wellness_encounters.json
+Loading module modules/injuries.json
+Loading module modules/colorectal_cancer.json
+Loading module modules/med_rec.json
+Loading module modules/congestive_heart_failure.json
+Loading module modules/veteran_self_harm.json
+Loading module modules/veteran_mdd.json
+Loading module modules/lung_cancer.json
+Loading module modules/contraceptives.json
+Loading module modules/osteoporosis.json
+Loading module modules/breast_cancer.json
+Loading module modules/female_reproduction.json
+Loading module modules/veteran.json
+Loading module modules/gout.json
+Loading module modules/metabolic_syndrome_disease.json
+Loading module modules/allergies.json
+Loading module modules/metabolic_syndrome_care.json
+Loading module modules/lupus.json
+Loading module modules/cystic_fibrosis.json
+Loading module modules/attention_deficit_disorder.json
+Loading module modules/dermatitis.json
+Loading module modules/food_allergies.json
+Loading module modules/veteran_ptsd.json
+Loading module modules/veteran_substance_abuse_conditions.json
+Loading module modules/hypertension.json
+Running with options:
+Population: 50
+Seed: 3
+Provider Seed:1607372382999
+Reference Time: 1607372382999
+Location: Massachusetts
+Min Age: 80
+Max Age: 81
+Gender: M
+2 -- Benny518 Olson653 (45 y/o M) Essex, Massachusetts DECEASED
+3 -- Manuel446 Nieto461 (65 y/o M) Revere, Massachusetts DECEASED
+5 -- Reid278 Parker433 (80 y/o M) Westborough, Massachusetts 
+8 -- Reynaldo722 Shanahan202 (75 y/o M) Mansfield, Massachusetts DECEASED
+6 -- Ulysses632 Hills818 (80 y/o M) Wellfleet, Massachusetts 
+4 -- Adolph80 Crooks415 (80 y/o M) Boston, Massachusetts 
+1 -- Sonny285 Botsford977 (77 y/o M) Pepperell, Massachusetts DECEASED
+7 -- Felipe97 Bartell116 (77 y/o M) Ipswich, Massachusetts DECEASED
+2 -- Norbert530 Torphy630 (73 y/o M) Essex, Massachusetts DECEASED
+8 -- Dane516 Herzog843 (80 y/o M) Mansfield, Massachusetts 
+11 -- Palmer257 Ryan260 (63 y/o M) Southborough, Massachusetts DECEASED
+10 -- Leo278 Hane680 (80 y/o M) Brockton, Massachusetts 
+9 -- Alfonso758 Cruz300 (78 y/o M) Arlington, Massachusetts DECEASED
+1 -- Freddie621 Krajcik437 (59 y/o M) Pepperell, Massachusetts DECEASED
+3 -- Roberto515 Saldivar860 (67 y/o M) Revere, Massachusetts DECEASED
+7 -- Anibal473 Kulas532 (80 y/o M) Ipswich, Massachusetts 
+11 -- Carlo647 Mitchell808 (42 y/o M) Southborough, Massachusetts DECEASED
+2 -- Jonathan639 Marvin195 (80 y/o M) Essex, Massachusetts 
+13 -- Stanford577 Lebsack687 (47 y/o M) Fitchburg, Massachusetts DECEASED
+14 -- Lance203 Senger904 (46 y/o M) Kingston, Massachusetts DECEASED
+1 -- Brice635 Huel628 (80 y/o M) Pepperell, Massachusetts 
+9 -- José Luis472 Anaya940 (64 y/o M) Arlington, Massachusetts DECEASED
+3 -- Gregorio366 Granado100 (80 y/o M) Revere, Massachusetts 
+12 -- Bernie827 Daniel959 (80 y/o M) Weston, Massachusetts 
+14 -- Walton167 Veum823 (45 y/o M) Kingston, Massachusetts DECEASED
+11 -- Logan497 Kris249 (80 y/o M) Southborough, Massachusetts 
+15 -- Hugh686 Friesen796 (33 y/o M) Falmouth, Massachusetts DECEASED
+13 -- Sal878 Gleason633 (54 y/o M) Fitchburg, Massachusetts DECEASED
+16 -- Shad704 Hartmann983 (21 y/o M) Braintree, Massachusetts DECEASED
+9 -- Gerardo48 Marroquín624 (76 y/o M) Arlington, Massachusetts DECEASED
+15 -- Claudio955 Aufderhar910 (55 y/o M) Falmouth, Massachusetts DECEASED
+14 -- Tobias236 Purdy2 (80 y/o M) Kingston, Massachusetts 
+13 -- Eugenio846 Heller342 (66 y/o M) Fitchburg, Massachusetts DECEASED
+16 -- Tod265 Kozey370 (80 y/o M) Braintree, Massachusetts 
+17 -- Rashad361 Steuber698 (80 y/o M) Waltham, Massachusetts 
+15 -- Darrin898 Schneider199 (80 y/o M) Falmouth, Massachusetts 
+18 -- Valentine262 Rodriguez71 (80 y/o M) Ashburnham, Massachusetts 
+9 -- Daniel959 Gallegos952 (80 y/o M) Arlington, Massachusetts 
+13 -- Hubert238 Boyle917 (65 y/o M) Fitchburg, Massachusetts DECEASED
+19 -- Pablo44 Corkery305 (80 y/o M) Everett, Massachusetts 
+20 -- Forest317 Morissette863 (80 y/o M) Wellesley, Massachusetts 
+21 -- Harris789 Collins926 (80 y/o M) Lowell, Massachusetts 
+22 -- Guillermo498 Lemke654 (80 y/o M) Springfield, Massachusetts 
+23 -- Cedrick207 Roob72 (80 y/o M) Westford, Massachusetts 
+24 -- Robert854 Blick895 (80 y/o M) Norfolk, Massachusetts 
+13 -- Scott935 Dare640 (80 y/o M) Fitchburg, Massachusetts 
+25 -- Jerald662 Mraz590 (80 y/o M) Cambridge, Massachusetts 
+27 -- Lucien408 Bosco882 (37 y/o M) Lowell, Massachusetts DECEASED
+26 -- Ambrose149 Walsh511 (80 y/o M) Westfield, Massachusetts 
+Waiting for threads to finish... java.util.concurrent.ThreadPoolExecutor@2da16263[Shutting down, pool size = 8, active threads = 8, queued tasks = 19, completed tasks = 23]
+30 -- Johnie961 Doyle959 (54 y/o M) Leominster, Massachusetts DECEASED
+29 -- Mauro926 Baumbach677 (80 y/o M) Fall River, Massachusetts 
+31 -- Elijah719 Reynolds644 (75 y/o M) Andover, Massachusetts DECEASED
+27 -- Terrance440 Corwin846 (68 y/o M) Lowell, Massachusetts DECEASED
+28 -- Luigi346 Homenick806 (80 y/o M) Rehoboth, Massachusetts 
+32 -- Arden380 Williamson769 (52 y/o M) Watertown, Massachusetts DECEASED
+30 -- Humberto482 Cronin387 (80 y/o M) Leominster, Massachusetts 
+27 -- Jasper743 Cormier289 (59 y/o M) Lowell, Massachusetts DECEASED
+31 -- Donnie175 Denesik803 (26 y/o M) Andover, Massachusetts DECEASED
+33 -- Rocco842 Beer512 (80 y/o M) Springfield, Massachusetts 
+34 -- Julian715 O'Kon634 (58 y/o M) West Springfield, Massachusetts DECEASED
+32 -- Morris740 Cremin516 (59 y/o M) Watertown, Massachusetts DECEASED
+27 -- Perry780 Bernier607 (80 y/o M) Lowell, Massachusetts 
+31 -- Reuben327 Konopelski743 (80 y/o M) Andover, Massachusetts 
+34 -- Dustin31 Ritchie586 (80 y/o M) West Springfield, Massachusetts 
+35 -- Issac619 Prosacco716 (80 y/o M) Middleborough, Massachusetts 
+36 -- Marco Antonio298 Frías523 (69 y/o M) Holland, Massachusetts DECEASED
+32 -- Mitchel812 Ritchie586 (80 y/o M) Watertown, Massachusetts 
+37 -- Elden718 Dooley940 (79 y/o M) Wakefield, Massachusetts DECEASED
+38 -- Norris589 Harvey63 (71 y/o M) Holland, Massachusetts DECEASED
+39 -- Esteban536 Fadel536 (80 y/o M) Essex, Massachusetts 
+40 -- Dwayne786 West559 (80 y/o M) Marshfield, Massachusetts 
+36 -- Benjamín452 Palomino953 (80 y/o M) Holland, Massachusetts 
+41 -- Isiah14 Kulas532 (65 y/o M) Norwood, Massachusetts DECEASED
+37 -- Florencio463 Donnelly343 (80 y/o M) Wakefield, Massachusetts 
+43 -- Harlan808 Muller251 (15 y/o M) Seekonk, Massachusetts DECEASED
+42 -- Cole117 Huels583 (80 y/o M) Cambridge, Massachusetts 
+38 -- Jared66 Lang846 (80 y/o M) Holland, Massachusetts 
+43 -- Marcelo725 Greenholt190 (28 y/o M) Seekonk, Massachusetts DECEASED
+41 -- Brad867 Hettinger594 (80 y/o M) Norwood, Massachusetts 
+45 -- Dan465 Heller342 (79 y/o M) Amherst, Massachusetts DECEASED
+44 -- Clarence5 Labadie908 (80 y/o M) Ludlow, Massachusetts 
+46 -- Christian753 Hyatt152 (79 y/o M) Lynn, Massachusetts 
+43 -- Stefan297 Corkery305 (80 y/o M) Seekonk, Massachusetts DECEASED
+47 -- Miles206 Borer986 (80 y/o M) Spencer, Massachusetts 
+48 -- Johnie961 Harber290 (80 y/o M) West Springfield, Massachusetts 
+49 -- Al123 Marquardt819 (80 y/o M) Norwood, Massachusetts DECEASED
+45 -- Antione404 Bernhard322 (80 y/o M) Amherst, Massachusetts 
+Waiting for threads to finish... java.util.concurrent.ThreadPoolExecutor@2da16263[Shutting down, pool size = 7, active threads = 7, queued tasks = 0, completed tasks = 43]
+50 -- Maria750 Nitzsche158 (80 y/o M) Weymouth, Massachusetts 
+43 -- Gus973 Witting912 (73 y/o M) Seekonk, Massachusetts DECEASED
+49 -- Elton404 Rogahn59 (80 y/o M) Norwood, Massachusetts 
+43 -- Orlando897 Satterfield305 (80 y/o M) Seekonk, Massachusetts 
+Records: total=91, alive=50, dead=41

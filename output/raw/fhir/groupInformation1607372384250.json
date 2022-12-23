@@ -1,0 +1,472 @@
+{
+  "resourceType": "Group",
+  "id": "0c3e03cd-bbc1-9954-1a53-6840e977dd47",
+  "identifier": [
+    {
+      "system": "urn:ietf:rfc:3986",
+      "value": "urn:uuid:0c3e03cd-bbc1-9954-1a53-6840e977dd47"
+    }
+  ],
+  "active": true,
+  "type": "person",
+  "actual": true,
+  "name": "Synthea Patients",
+  "quantity": 91,
+  "member": [
+    {
+      "entity": {
+        "reference": "urn:uuid:055f50fa-c1cb-c4e5-63db-0d27c307cdd1"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:5517503c-8098-a156-f2a1-9ac80a2aa83c"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:034bbfef-3525-e5e5-4bd4-5fbab0a6f245"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:472db64c-f5e4-68fe-583e-9f77fde2db20"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:f1968e03-f19b-fdc2-04d4-fa653574d22a"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:9fc881fa-135e-85b1-0e8d-09138cba917c"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:2a8058c2-39b4-420e-898c-d4fdb0a0e6bb"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:23c4b369-7108-7b58-75c5-f896b55065fd"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:28681e26-0c9b-9cf5-8584-df2b4dd6e60c"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:1adfe6ae-c9d9-a59c-e2a2-6ce797fcc3ac"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:ceff0a6b-31eb-2c4a-7241-d1df94e02f2d"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:90bbb6e9-b398-11a1-14f7-80f70440a393"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:62d7e773-73ac-b314-71b0-63bbb509eb70"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:f4877f36-03ad-c85a-58ce-319638425d3d"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:905d582b-bf07-778c-f6d2-c78c5e30b750"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:98295fd3-d489-7713-d8cf-e70a0350d495"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d6ac2f7a-cd1a-d71d-2355-8fbddb3eb516"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:27ecf9db-6ef2-f44d-2811-293d9ce28bc9"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:b14fc169-93b3-9885-68e5-2707b9faedd3"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:87fe8845-ae11-0ab7-d215-9a5be41f3e9e"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:00e8ab84-52b9-a057-8dd8-2bff73b6aa24"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:6e744571-38c9-3bd6-4091-aaec7e7e75d4"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:72e91335-3d2e-02b3-fb17-ca244636df4d"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:bcfa83df-ee8c-9721-cc07-bdcfc2b1e3f2"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:80115d2c-8bf5-4deb-6086-312a78f8414e"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:db7fd06f-b50c-1abd-a29a-dc4819e58c03"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:6bbb57fe-948a-180d-1afa-9875005020a5"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:44dbd05f-e774-f501-d62f-3ece2d0620c1"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:33f36490-a2d9-290d-aabb-88841c9040b9"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:8fca31d9-fd4f-c1dc-2e67-fb6c200bea8a"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:60e3be9b-a1f7-fb3e-c752-8f50b1d1591e"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:7a48ae31-84d6-9a09-099c-ca74382d2ff9"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:6a8ab6f3-d873-de4a-a0a8-026f92487340"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:b35eae82-47a1-dcb4-ff96-a7a153407cf4"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d4afb1bf-f73d-c89f-30d8-f522c3ba0818"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:98ea7d1c-e94b-9fc6-9289-6b163341f432"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:0c043e8a-976e-7da0-f386-505c62976fa4"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:2f02c69d-94a7-16a8-8a06-5c5f464a67ee"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:99b80ccd-4a86-5295-2a7d-4c6b0a832326"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:6a1b8d53-002e-cc8d-1c8f-169f522256dc"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d7c34f93-a7d9-df8d-59dc-43c0b542f6c4"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:dbf26072-4a43-ed65-bff4-c241aa29c7db"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:229ab69c-1274-1f4a-9c57-bad941cc9bd9"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:558cdba7-643a-6035-033e-29f1d3427b3d"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d60dd9bd-60dd-eba0-7ac8-edb169e80fb2"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d831ec91-c7a3-4a61-9312-7ff0c4a32134"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:8df01f8a-b22a-105d-a14a-b47db831bda0"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:8b99fdc4-cb69-90a7-7312-045fd0b8bd95"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:53e5158b-dd62-b0ae-a7e9-12934ee03bbf"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:bf4ef6ec-72cb-a7f8-fce2-811913347bf9"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:234fa572-a0b6-6744-c884-9c5b285f995c"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:7badb5ad-b08d-647f-5f6a-e581243a3b81"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:77bfe339-f3af-329f-ffe2-b9784d71ff94"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:e986a093-3621-9922-ab22-881bb161a162"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:615ab4d2-d6e4-723c-57ac-21546f23adff"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:682ea21b-94a9-886e-64c9-ca0acb3a2c11"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:de979bfb-4d27-fe8d-835e-57b75e6bf54a"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:9d619979-57bf-32c9-dd12-21f669e13547"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:3cf0741b-fee1-b19c-1591-99a5b7477d46"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d4b58cb6-83ae-9a40-1988-7fa5d3d32c8c"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:671f9539-afff-22b2-3c99-46ac770d3574"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:58034769-c08c-eefe-d08f-e3ed03614662"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:da63f14e-2a50-0593-7173-18a790d3a95f"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:031e7215-b89e-1424-9a72-1d51427d7164"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:5e716863-245f-e9f4-5000-cf5b3aab38c1"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:e91975f5-9445-c11f-cabf-c3c6dae161f2"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:0569a97f-69d8-7446-a6e3-97eb1260e086"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:031c1575-6747-455b-8647-f18ec7a1f15b"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:6befe337-5c09-fbbf-0f95-4ea91d321e5b"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:5bfd6e6b-6234-e38f-ce23-0db3cb737c17"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:cd9ac823-19fb-1517-59db-8fccb379beb3"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:2303d1db-0633-3fc5-c303-bfac8191c04f"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:397734c3-cf62-529b-bb16-baae4fd8a5fc"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:31aa3086-c79a-ecf0-a02e-e36710b15e0b"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:2a27b9a6-2260-1d4a-6a71-a3c4661d0238"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d5838025-0c46-95b5-0189-1d04923002da"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:1f3303e5-c6a7-f03c-f6f2-cfff32f9a55c"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:d217d366-4496-486f-0c99-834a1c7557e3"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:85bb069e-1789-7894-9225-fff4881023a8"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:c615c337-6869-6fc0-2db8-0b417fb517fc"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:67680829-900d-fb1f-a126-5ba47c3a4de2"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:cec47db4-cc6b-a8c2-36dd-8f7bc0b333af"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:22273b4b-cca3-b34f-da9f-182cf0b3beb2"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:6be8e7d0-3519-5c6d-8ddb-8ccb55e7df26"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:3ca640af-9058-4385-12fe-4d89590bed88"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:6dd0a2a0-2208-a229-5faa-60c16bb69863"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:ab4f0af0-9b0e-3702-5f8a-4d878a68280a"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:4d63f591-7e94-6d23-b579-d24804df0a69"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:f773614b-055c-64c2-0e51-59567909b86f"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:a0ea59bc-7beb-81b8-9dda-3a694f50421b"
+      }
+    },
+    {
+      "entity": {
+        "reference": "urn:uuid:f26442a4-8c8d-b130-b923-15a8a74e720f"
+      }
+    }
+  ]
+}
